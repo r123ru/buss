@@ -4440,5 +4440,42 @@
       "link_mods": "https://kedaton.my.id/Kakara/ModBussid/Map/Map Wonosobo - Batur.bussidmod",
       "link_livery": "null"
     }
+  ],
+  "Categories": [
+    {
+      "id": "1",
+      "category": "Bis",
+      "image": "https://kedaton.my.id/Kakara/ModBussid/Icon/Bis.webp"
+    },
+    {
+      "id": "2",
+      "category": "Truk",
+      "image": "https://kedaton.my.id/Kakara/ModBussid/Icon/Truk.webp"
+    },
+    {
+      "id": "3",
+      "category": "Mobil",
+      "image": "https://kedaton.my.id/Kakara/ModBussid/Icon/Mobil.webp"
+    },
+    {
+      "id": "4",
+      "category": "Motor",
+      "image": "https://kedaton.my.id/Kakara/ModBussid/Icon/Motor.webp"
+    },
+    {
+      "id": "5",
+      "category": "Unik",
+      "image": "https://kedaton.my.id/Kakara/ModBussid/Icon/Pesawat.webp"
+    },
+    {
+      "id": "6",
+      "category": "Maps",
+      "image": "https://kedaton.my.id/Kakara/ModBussid/Icon/Maps.webp"
+    },
+    {
+      "id": "7",
+      "category": "Livery Ori",
+      "image": "https://kedaton.my.id/Kakara/ModBussid/Icon/Livery.webp"
+    }
   ]
 }
